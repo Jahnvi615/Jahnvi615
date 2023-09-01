@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jahnvi615
+- 👋 Hi, I’m Jahnvi!
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning frameworks
+- 🌱 I’m currently exploring my learnings
 
 
 <!---

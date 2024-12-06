@@ -19,10 +19,10 @@
 # 📊 GitHub Stats:
 
 <!-- GitHub Profile Stats -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=jahnvi615&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="Jahnvi Goyal's GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Jahnvi615&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="Jahnvi Goyal's GitHub Stats" /></p>
 
 <!-- GitHub Streak Stats -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvi615&theme=transparent&hide_border=false" alt="Jahnvi Goyal's GitHub Streak Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnvi615&theme=transparent&hide_border=false" alt="Jahnvi Goyal's GitHub Streak Stats" /></p>
 
 📄 Know about my experiences- https://drive.google.com/file/d/1hEca9C5fJ1m3tmnWcKtP25kRFEFy3_yp/view?usp=sharing
 

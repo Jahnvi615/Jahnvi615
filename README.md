@@ -10,7 +10,7 @@
 ## 🌱 **Currently Enhancing My Expertise:**
 - 🖥️ Web Development with **Angular**
 - 🗃️ Database Management using **MySQL**
-- ⚙️ Backend
+- ⚙️ Backend Development
 
 ## 📬 **Let's Connect:**
 - 📧 [jahnvigoyal615@gmail.com](mailto:jahnvigoyal615@gmail.com)

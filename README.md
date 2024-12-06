@@ -1,54 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jahnvi Goyal's GitHub Profile</title>
-</head>
-<body>
+# 👋 Hello, World! I'm **Jahnvi Goyal**
+🎓 Final-year IT Engineering Student | 💻 Aspiring Software Engineer  
+💡 Passionate about solving real-world problems through innovative solutions and efficient code.
 
-    <h1>👋 Hello, World! I'm <strong>Jahnvi Goyal</strong></h1>
-    <p>🎓 Final-year IT Engineering Student | 💻 Aspiring Software Engineer</p>
-    <p>💡 Passionate about solving real-world problems through innovative solutions and efficient code.</p>
+## 💻 Tech Stack:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-    <h2>🔧 <strong>Skills:</strong></h2>
-    <ul>
-        <li><a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"></a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"></a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"></a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"></a></li>
-        <li><a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30"></a></li>
-        <li><a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30"></a></li>
-    </ul>
+## 🌱 **Currently Enhancing My Expertise:**
+- 🖥️ Web Development with **Angular**
+- 🐍 Backend with **Flask**
+- 🗃️ Database Management using **MySQL**
 
-    <h2>🌱 <strong>Currently Enhancing My Expertise:</strong></h2>
-    <ul>
-        <li>🖥️ Web Development with <strong>Angular</strong></li>
-        <li>🐍 Backend with <strong>Flask</strong></li>
-        <li>🗃️ Database Management using <strong>MySQL</strong></li>
-    </ul>
+## 📬 **Let's Connect:**
+- 📧 [jahnvigoyal615@gmail.com](mailto:jahnvigoyal615@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvi-goyal-70936624a)
 
-    <h2>📬 <strong>Let's Connect:</strong></h2>
-    <p>📧 <a href="mailto:jahnvigoyal615@gmail.com">jahnvigoyal615@gmail.com</a></p>
-    <p><a href="https://www.linkedin.com/in/jahnvi-goyal-70936624a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a></p>
+# 📊 GitHub Stats:
 
-    <h2>📈 <strong>Top Languages:</strong></h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvigoyal&layout=compact" alt="Top Languages">
+<!-- GitHub Profile Stats -->
+<p><img src="https://github-readme-stats.vercel.app/api?username=jahnvi615&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="Jahnvi Goyal's GitHub Stats" /></p>
 
-    <h2>🛠️ <strong>Technologies & Tools:</strong></h2>
-    <ul>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"></a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"></a></li>
-        <li><a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30"></a></li>
-        <li><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30"></a></li>
-        <li><a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"></a></li>
-        <li><a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30"></a></li>
-        <li><a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"></a></li>
-        <li><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"></a></li>
-    </ul>
+<!-- GitHub Streak Stats -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvi615&theme=transparent&hide_border=false" alt="Jahnvi Goyal's GitHub Streak Stats" /></p>
 
-</body>
-</html>
+📄 Know about my experiences- https://drive.google.com/file/d/1hEca9C5fJ1m3tmnWcKtP25kRFEFy3_yp/view?usp=sharing
+
+
+
+
+
+
+
 
 
 <!---

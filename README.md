@@ -9,7 +9,7 @@
 
 ## 🌱 **Currently Enhancing My Expertise:**
 - 🖥️ Web Development with **Angular**
-- 🐍 Backend with **Flask**
+- ⚙️ Backend
 - 🗃️ Database Management using **MySQL**
 
 ## 📬 **Let's Connect:**

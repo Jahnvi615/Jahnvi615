@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm **Jahnvi Goyal**
 🎓 Final-year IT Engineering Student | 💻 Aspiring Software Engineer  
-💡 Passionate about solving real-world problems through innovative solutions and efficient code.
+💡 Passionate about solving real-world problems through innovative solutions and efficient code. <br>
 🔗 Live site: https://jahnvi615.github.io/Jahnvi_Portfolio/
 
 ## 💻 Tech Stack:
